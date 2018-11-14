@@ -1,2 +1,2 @@
-# etcha-sketch
-Odin Etcha-sketch Project
+# BareBonesHTML
+The basic framework for an HTML document

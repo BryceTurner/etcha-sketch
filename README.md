@@ -1,2 +1,2 @@
-# BareBonesHTML
-The basic framework for an HTML document
+# Etcha-Sketch
+Javascript HTML manipulation, part of the Odin Project full stack course.
